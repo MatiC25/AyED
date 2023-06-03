@@ -1,3 +1,6 @@
+Matías Cao
+K1043
+
 Trabajo Práctico #1 – "Calcular π"
 
 1) Consigna:
