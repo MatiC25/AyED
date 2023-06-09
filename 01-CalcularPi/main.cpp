@@ -10,7 +10,7 @@ int main()
     
     pi=0; n=1; i=1;   
     
-    while (i<=1000000){
+    while (pi <= 0.785398 || pi >= 0.7853982999999){
         denominador=(2*i-1);// 2*i-1 formula de numeros impares 
         pi=pi+n*(1/denominador); //Sumatoria del anterior 
         n = n*(-1); //Alternación de signo al realizar cada suma 
