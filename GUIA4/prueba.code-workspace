@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../AppData/Local/Programs/Microsoft VS Code/prueba"
+		},
+		{
+			"path": "../../Downloads/G04Datos"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"iomanip": "cpp",
+			"ostream": "cpp",
+			"fstream": "cpp"
+		}
+	}
+}
